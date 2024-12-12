@@ -1,14 +1,13 @@
 github_users:
   - abdulmunimjemal
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
   - abdulmunimjemal/ArtaiSpellChecker
+  - abdulmunimjemal/afaan-oromoo-news-classification-system
   - abdulmunimjemal/ai-farming
   - abdulmunimjemal/hadith-search
-  - abdulmunimjemal/afaan-oromoo-news-classification-system
   - abdulmunimjemal/Afaan-Oromoo-Hate-Speech-Classifier
   - abdulmunimjemal/Realtime-FaceMask-Detection
 

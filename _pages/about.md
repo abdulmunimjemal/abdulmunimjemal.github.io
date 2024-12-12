@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AI Researcher</a>. Addis Ababa, Ethiopia. (+251) 900-729000 | abdulmunimjemal@aait.edu.et. "Innovating AI for a Better Tomorrow."
+subtitle: <a href='#'>Software Engineer | Passionate AI/ML Researcher</a>. |  "Innovating AI for a Better Tomorrow."
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Addis Ababa, Ethiopia</p>
     <p>+251 900-729000</p>
@@ -19,8 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Abdulmunim Jundurahman Jemal, a Software Engineer specializing in AI. I have a strong background in NLP, speech processing, and some experience neuro-symbolic AI research, with hands-on experience in developing real-world applications such as speech-based language learning apps, machine translation systems, and advanced AI pipelines.
+Hi, I’m Abdulmunim Jundurahman Jemal—a Software Engineer with a passion for AI-driven innovation. My expertise spans NLP, speech processing, and neuro-symbolic AI, where I’ve translated complex concepts into real-world impact. From creating intuitive speech-based language learning apps to developing machine translation systems, I enjoy tackling challenges that push the boundaries of technology.
 
-Currently, I'm a Software Engineer (AI) at Amazéthu, focusing on company-specific AI solutions. I've also collaborated on research at iCog Labs and worked on impactful projects during my time at SMARTi Co. in Japan. With a top CGPA in Software Engineering at Addis Ababa University, I combine a strong academic foundation with practical expertise.
+My journey includes research at iCog Labs and working on transformative projects with SMARTi Co. in Japan. These experiences have shaped my problem-solving mindset and deepened my commitment to designing AI solutions that make a difference.
+
+**Current Interests:**
+  - Efficient NLP
+  - Model quantization for resource-constrained environments
+  - AI localization for global accessibility
+  - Multi Modality
+
+
 
 <!-- Check out my [publications page](/al-folio/publications/) to explore my work or connect with me through the icons below. Let's build innovative AI solutions together! -->

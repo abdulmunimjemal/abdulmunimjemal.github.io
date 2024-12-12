@@ -11,7 +11,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A software engineer and AI researcher focusing on natural language processing and machine learning. 
   Created custom NLP solutions, such as an Afaan Oromo News Classification System and an Amharic Context-Aware Spell Checker
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: abdulmunim, NLP, AI Researcher, Ethiopia, Software Engineer, Low Resource Languages # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -47,10 +46,10 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false
+search_enabled: false
 socials_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -80,7 +79,7 @@ flickr_id: # your flickr id
 github_username: abdulmunimjemal # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: amunim_j # your instagram id
 kaggle_id: abdulmunimjemal # your kaggle id
 keybase_username: # your keybase user name
@@ -95,7 +94,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -133,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Abdulmunim # blog_name will be displayed in your blog page
+blog_name: Personal Blog # blog_name will be displayed in your blog page
 blog_description: Showcasing projects and research in NLP and AI.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
