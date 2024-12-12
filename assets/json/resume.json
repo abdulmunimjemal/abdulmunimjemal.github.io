@@ -1,10 +1,9 @@
 {
   "basics": {
       "name": "Abdulmunim Jundurahman Jemal",
-      "label": "Machine Learning Engineer | NLP | Backend Engineer",
-      "image": "",
-      "email": "abdulmunim@gmail.com",
-      "phone": "+251 900-729000",
+      "label": "AI / ML Engineer and Researcher",
+      "email": "abdulmunimjemal@gmail.com",
+      "phone": "+251 900729000",
       "url": "https://abdulmunim.me",
       "summary": "Machine Learning Engineer with expertise in NLP, backend development, and speech processing. Passionate about AI research and applying technology to solve real-world challenges, particularly in underrepresented languages and edge computing.",
       "location": {
@@ -20,9 +19,9 @@
       {
           "name": "Amazethu",
           "position": "Software Engineer",
-          "url": "",
+          "url": "https://amazethu.com",
           "startDate": "2024-05-01",
-          "endDate": "Present",
+          "endDate": "2024-12-31",
           "summary": "Developed NLP models for a speech-based language learning app, optimizing speech recognition and translation accuracy for improved user interaction.",
           "highlights": [
               "Improved user experience through optimized NLP systems."
@@ -31,7 +30,7 @@
       {
           "name": "SMARTi Co.",
           "position": "AI Engineer",
-          "url": "",
+          "url": "https://www.smartichip.co.jp/",
           "startDate": "2024-10-01",
           "endDate": "2024-11-30",
           "summary": "Designed and deployed advanced speech data processing pipelines, improving efficiency in large-scale AI applications of IoT user command recognition and fine-tuning models for real-time performance.",
@@ -42,7 +41,7 @@
       {
           "name": "Icog Labs",
           "position": "AI Research Intern",
-          "url": "",
+          "url": "https://icog-labs.com/",
           "startDate": "2024-02-01",
           "endDate": "2024-05-31",
           "summary": "Engaged in Neuro-Symbolic AI research, translating theoretical concepts into executable algorithms, and contributing to Explainable AI methodologies.",
@@ -53,7 +52,7 @@
       {
           "name": "Lesan.AI",
           "position": "NLP Intern",
-          "url": "",
+          "url": "https://lesan.ai/",
           "startDate": "2023-06-01",
           "endDate": "2024-01-31",
           "summary": "Built scalable data collection and preprocessing pipelines, automated preprocessing for multilingual low-resource machine translation, and contributed to end-to-end system improvements in the backend.",
@@ -68,10 +67,10 @@
           "location": "Addis Ababa, Ethiopia",
           "url": "https://www.aau.edu.et",
           "area": "Software Engineering (AI Specialization)",
-          "studyType": "BSc",
+          "studyType": "Bachelor",
           "startDate": "2021-09-01",
           "endDate": "2026-06-01",
-          "score": "3.88/4.00",
+          "score": "3.92/4.00",
           "courses": [
               "Applied Mathematics I / II / II",
               "Statistics and Probability",
@@ -83,6 +82,28 @@
               "Data Structures and Algorithms",
               "Object-Oriented Programming"
           ]
+      }
+  ],
+  "certificates": [
+      {
+          "name": "Machine Learning Specialization",
+          "issuer": "Stanford University (Coursera)",
+          "url": "https://www.coursera.org/account/accomplishments/verify/646SB4FU8TN4"
+      },
+      {
+          "name": "Natural Language Processing Specialization",
+          "issuer": "DeepLearning.ai (Coursera)",
+          "url": "https://www.coursera.org/account/accomplishments/records/SJ7BQ4NFY2JH"
+      },
+      {
+          "name": "Computer Vision Basics",
+          "issuer": "The State University of New York (Coursera)",
+          "url": "https://www.coursera.org/account/accomplishments/verify/EWTHYY9JHG8S"
+      },
+      {
+          "name": "Database Design Specialization",
+          "issuer": "University of Michigan (Coursera)",
+          "url": ""
       }
   ],
   "projects": [
@@ -117,19 +138,21 @@
               "Python",
               "JavaScript",
               "TypeScript",
-              "C"
+              "C / C++",
+              "SQL"
           ]
       },
       {
           "name": "Technologies",
           "level": "Expert",
           "keywords": [
-              "TensorFlow",
-              "PyTorch",
-              "FastAPI",
               "Docker",
               "PostgreSQL",
-              "Kubernetes"
+              "Kubernetes",
+              "Git Actions",
+              "VectorDB",
+              "Distributed Systems",
+              "NoSQL and SQL Database"
           ]
       },
       {
@@ -137,6 +160,9 @@
           "level": "Expert",
           "keywords": [
               "Hugging Face",
+              "PyTorch",
+              "TensorFlow",
+              "AutoML",
               "Scikit-learn",
               "Pandas",
               "NumPy",
@@ -144,34 +170,9 @@
               "Seaborn",
               "NLTK",
               "SpaCy",
-              "Gensim"
+              "Gensim",
+              "FastAPI"
           ]
-      }
-  ],
-  "certificates": [
-      {
-          "name": "Machine Learning Specialization",
-          "date": "2023-11-11",
-          "issuer": "Stanford University (Coursera)",
-          "url": "https://www.coursera.org/account/accomplishments/verify/646SB4FU8TN4"
-      },
-      {
-          "name": "Natural Language Processing Specialization",
-          "date": "2024-07-20",
-          "issuer": "DeepLearning.ai (Coursera)",
-          "url": "https://www.coursera.org/account/accomplishments/records/SJ7BQ4NFY2JH"
-      },
-      {
-          "name": "Computer Vision Basics",
-          "date": "2023-07-25",
-          "issuer": "The State University of New York (Coursera)",
-          "url": "https://www.coursera.org/account/accomplishments/verify/EWTHYY9JHG8S"
-      },
-      {
-          "name": "Database Design Specialization",
-          "date": "2024-04-01",
-          "issuer": "University of Michigan (Coursera)",
-          "url": ""
       }
   ],
   "languages": [
@@ -189,7 +190,7 @@
       },
       {
           "language": "Arabic",
-          "fluency": "Fluent"
+          "fluency": "Intermediate"
       },
       {
           "language": "Japanese",

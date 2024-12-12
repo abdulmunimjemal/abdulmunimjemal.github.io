@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed context-aware spell checker!!! :sparkles: :smile:
+Completed Amharic context-aware spell checker!!! - Check my repo's page. :sparkles: :smile:

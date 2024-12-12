@@ -19,15 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Abdulmunim Jundurahman Jemal—a Software Engineer with a passion for AI-driven innovation. My expertise spans NLP, speech processing, and neuro-symbolic AI, where I’ve translated complex concepts into real-world impact. From creating intuitive speech-based language learning apps to developing machine translation systems, I enjoy tackling challenges that push the boundaries of technology.
+Hi, I’m Abdulmunim —a Software Engineer with a passion for AI-driven innovation. My expertise spans NLP, speech processing, and neuro-symbolic AI, where I’ve translated complex concepts into real-world impact. From creating intuitive speech-based language learning apps to developing machine translation systems, I enjoy tackling challenges that push the boundaries of technology.
 
-My journey includes research at iCog Labs and working on transformative projects with SMARTi Co. in Japan. These experiences have shaped my problem-solving mindset and deepened my commitment to designing AI solutions that make a difference.
+My journey includes research at *iCog Labs* and working on transformative projects with *SMARTi Co.* in *Japan*. These experiences have shaped my problem-solving mindset and deepened my commitment to designing AI solutions that make a difference.
 
 **Current Interests:**
-  - Efficient NLP
-  - Model quantization for resource-constrained environments
-  - AI localization for global accessibility
-  - Multi Modality
+    - Efficient NLP
+    - Model quantization for resource-constrained environments
+    - Real Life Applications of Current Systems
 
 
 
