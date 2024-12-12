@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
+  - abdulmunimjemal
   - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - abdulmunimjemal/ArtaiSpellChecker
+  - abdulmunimjemal/ai-farming
+  - abdulmunimjemal/hadith-search
+  - abdulmunimjemal/afaan-oromoo-news-classification-system
+  - abdulmunimjemal/Afaan-Oromoo-Hate-Speech-Classifier
+  - abdulmunimjemal/Realtime-FaceMask-Detection
+
