@@ -26,8 +26,7 @@ My journey includes research at *iCog Labs* and working on transformative projec
 **Current Interests:**
   - Efficient NLP
   - Model quantization for resource-constrained environments
-  - 
-  - Real Life Applications of Current Systems
+  - Parameter Optimized Fine-Tuning
 
 
 
