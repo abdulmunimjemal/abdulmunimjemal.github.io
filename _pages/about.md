@@ -24,9 +24,10 @@ Hi, I’m Abdulmunim —a Software Engineer with a passion for AI-driven innovat
 My journey includes research at *iCog Labs* and working on transformative projects with *SMARTi Co.* in *Japan*. These experiences have shaped my problem-solving mindset and deepened my commitment to designing AI solutions that make a difference.
 
 **Current Interests:**
-    - Efficient NLP
-    - Model quantization for resource-constrained environments
-    - Real Life Applications of Current Systems
+  - Efficient NLP
+  - Model quantization for resource-constrained environments
+  - 
+  - Real Life Applications of Current Systems
 
 
 
