@@ -48,7 +48,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: false
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 bib_search: false
 
 # Dimensions
@@ -81,7 +81,7 @@ gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
 instagram_id: amunim_j # your instagram id
-kaggle_id: abdulmunimjemal # your kaggle id
+kaggle_id: # abdulmunimjemal  your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -102,11 +102,11 @@ stackoverflow_id: # your stackoverflow id
 telegram_username: abdulmunimj # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: +251900729000 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: # +251900729000 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: abdulmunimjemal # your X handle
+x_username: # abdulmunimjemal # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -148,8 +148,8 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: abdulmunimjemal/academics-portfolio # <your-github-user-name>/<your-github-repo-name>
-  repo_id: R_kgDONclLOg # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: abdulmunimjemal/abdulmunimjemal.github.io/ # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDONclLOg  # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
@@ -310,8 +310,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Jemal]
+  first_name: [Abdulmunim, J.]
 
   style: apa
   locale: en
@@ -679,5 +679,5 @@ jsonresume:
   - languages
   - interests
   # - awards
-  # - publications
+  - publications
   # - references
